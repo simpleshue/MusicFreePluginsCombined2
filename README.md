@@ -1,3 +1,6 @@
+https://raw.githubusercontent.com/simpleshue/MusicFreePlugins/master/musicfree-aggregate-plugin.js
+
+
 # MusicFree 聚合音源插件
 
 把多个公开音乐服务的检索结果聚合成一份统一列表，并统一提供**播放直链、歌词、歌单**能力。
