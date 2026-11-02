@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/simpleshue/MusicFreePlugins/master/musicfree-aggregate-plugin.js
+https://raw.githubusercontent.com/simpleshue/MusicFreePluginsCombined2/master/musicfree-aggregate-plugin.js
 
 
 # MusicFree 聚合音源插件
